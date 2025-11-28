@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+beautifulsoup4
+lxml
+pandas
+pdfplumber
+python-dotenv
+google-genai
