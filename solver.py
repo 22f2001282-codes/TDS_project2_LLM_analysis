@@ -421,7 +421,7 @@ async def solve_single_quiz(quiz_url: str) -> dict:
         "details": details,
         "submit_url": submit_url,
         "submit_result": submit_result,
-        "next_url": next_url,
+        "next_url": next_url
     }
 
 
