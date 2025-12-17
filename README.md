@@ -191,30 +191,6 @@ Moves to next URL
 
 Continues the chain
 
-Returns a detailed final report
-
-🎤 Viva-Ready Explanation (Use This)
-
-“My system uses Google Gemini (gemini-2.0-flash) to analyze the question
-and determine what type of operation is required.
-The actual computation—like summing values in PDFs or reading CSV tables—
-is performed using Python libraries to guarantee correctness and stability.
-The solver extracts links, downloads files, computes answers, submits them,
-and follows the chain until the quiz ends.”
-
-🎁 Why Gemini instead of OpenAI?
-
-Free API key (OpenAI requires paid credits)
-
-Lighter, faster inference
-
-Best fit for a student project
-
-Clean JSON generation
-
-Works perfectly for reasoning tasks
-like classifying question type + describing the operation
-
 🎉 Project Completed
 
 This project demonstrates:
@@ -239,3 +215,4 @@ Author
 Shristi Patel
 LLM Analysis Quiz Project
 IITM BS in Data Science (TDS)
+
